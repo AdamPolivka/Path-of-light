@@ -1,5 +1,13 @@
 # Path-of-light
+Is Virtual reality game prototype developed as a group project for Virtual reality course I attended at RMIT. 
 
+Users main objective inside the prototype is to solve the puzzle. The user need to take the orb and drag it through the maze,
+slide tile panels on the walls to create connections to take the orb to the other side of the room, unlock the door and complete
+level by exiting through the doors.
+
+This project is a collaboration of four students where my main role was to develop backend that would keep track of the game state
+and update its properties accordingly to given user input. I also helped with the design and implementation of VR features using the Microsoft MRTK 
+and the gameplay itself in general.
 
 
 ## Gameplay preview
